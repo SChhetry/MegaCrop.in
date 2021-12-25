@@ -382,7 +382,7 @@ html {
   color: #a19e9e;
 }
 
-@media only screen and (max-width: 768px) and (min-width: 508px) {
+@media only screen and (max-width: 768px) and (min-width: 218px) {
   .big_wrapper {
     height: 80vh;
   }
